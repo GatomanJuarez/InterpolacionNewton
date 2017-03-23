@@ -1,0 +1,9 @@
+c:\users\jeobal\documents\visual studio 2015\Projects\Newthon\Newthon\bin\Debug\Newthon.exe.config
+c:\users\jeobal\documents\visual studio 2015\Projects\Newthon\Newthon\bin\Debug\Newthon.exe
+c:\users\jeobal\documents\visual studio 2015\Projects\Newthon\Newthon\bin\Debug\Newthon.pdb
+c:\users\jeobal\documents\visual studio 2015\Projects\Newthon\Newthon\obj\Debug\Newthon.csprojResolveAssemblyReference.cache
+c:\users\jeobal\documents\visual studio 2015\Projects\Newthon\Newthon\obj\Debug\Newthon.Form1.resources
+c:\users\jeobal\documents\visual studio 2015\Projects\Newthon\Newthon\obj\Debug\Newthon.Properties.Resources.resources
+c:\users\jeobal\documents\visual studio 2015\Projects\Newthon\Newthon\obj\Debug\Newthon.csproj.GenerateResource.Cache
+c:\users\jeobal\documents\visual studio 2015\Projects\Newthon\Newthon\obj\Debug\Newthon.exe
+c:\users\jeobal\documents\visual studio 2015\Projects\Newthon\Newthon\obj\Debug\Newthon.pdb
